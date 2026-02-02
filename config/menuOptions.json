@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "OnNet",
+    "configfile": "./config/configOnNet.json",
+    "file_name": "onnet_calls"
+  },
+  "2": {
+    "name": "XNet",
+    "configfile": "./config/configXNet.json",
+    "file_name": "xnet_calls"
+  },
+  "3": {
+    "name": "International",
+    "configfile": "./config/configIntl.json",
+    "file_name": "intl_calls"
+  }
+}
