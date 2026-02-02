@@ -41,16 +41,14 @@ python generateCDR.py
 Please enter your choice (1, 2, or 3 ):
 ```
 
-```bash
---- MENU ---
-[1]  OnNet
-[2]  XNet
-[3]  International
+`--- MENU ---
+[1] OnNet
+[2] XNet
+[3] International
 
 Please enter your choice (1, 2, or 3 ): 1
 
-Please enter the number of records to generate:
-```
+Please enter the number of records to generate:`
 
 ## Configuration Options
 
